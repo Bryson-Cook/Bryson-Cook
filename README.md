@@ -4,7 +4,7 @@ I am undergraduate teaching assistant at Colorado State University.
 
 - 🔭 I’m currently working on FranciumOS (32-bit x86)
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about development
+- 💬 Ask me about OS development
 - 📫 How to reach me: bryson1@colostate.edu
 
 <!--
